@@ -2,7 +2,7 @@
 /.idea
 Homestead.json
 Homestead.yaml
-.env
+# .env - MUST BE REMOVED FROM PRODUCTION CODE !!!
 database/database.sqlite
 
 
